@@ -15,7 +15,6 @@
     background: #0b2e0f;
     color: white;
   }
-
   /* Canvas for sparks */
   canvas {
     position: fixed;
